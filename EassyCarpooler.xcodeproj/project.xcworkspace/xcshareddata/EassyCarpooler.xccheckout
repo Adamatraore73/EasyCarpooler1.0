@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D97D0CD6-F5B5-4DD8-9A9D-1D6E939DB180</string>
+	<key>IDESourceControlProjectName</key>
+	<string>EassyCarpooler</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>24343D095FE78A9250C111724A98555D4A539EF2</key>
+		<string>https://github.com/Adamatraore73/EasyCarpooler.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>EasyCarpooler/EassyCarpooler/EassyCarpooler.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>24343D095FE78A9250C111724A98555D4A539EF2</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Adamatraore73/EasyCarpooler.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>24343D095FE78A9250C111724A98555D4A539EF2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>24343D095FE78A9250C111724A98555D4A539EF2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>EasyCarpooler</string>
+		</dict>
+	</array>
+</dict>
+</plist>
